@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/morthenjo.github.io/react-counter/static/css/main.69c7eed8.css",
+    "main.js": "/morthenjo.github.io/react-counter/static/js/main.a1bb53fe.js",
+    "static/js/787.d6bd616b.chunk.js": "/morthenjo.github.io/react-counter/static/js/787.d6bd616b.chunk.js",
+    "index.html": "/morthenjo.github.io/react-counter/index.html",
+    "main.69c7eed8.css.map": "/morthenjo.github.io/react-counter/static/css/main.69c7eed8.css.map",
+    "main.a1bb53fe.js.map": "/morthenjo.github.io/react-counter/static/js/main.a1bb53fe.js.map",
+    "787.d6bd616b.chunk.js.map": "/morthenjo.github.io/react-counter/static/js/787.d6bd616b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69c7eed8.css",
+    "static/js/main.a1bb53fe.js"
+  ]
+}
